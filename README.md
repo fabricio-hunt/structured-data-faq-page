@@ -15,3 +15,5 @@ Já o Google, em sua página para desenvolvedores, define:  “Os dados estrutur
 
 Os mecanismos de pesquisa podem usar esse conhecimento para exibir seu conteúdo de modo útil e atraente nos resultados da pesquisa. Isso, por sua vez, pode ajudar você a atrair o tipo certo de cliente para seu negócio.” 
 
+![banner_novo_dados](https://user-images.githubusercontent.com/87333479/145689552-520765bf-fef5-4606-8116-cad323b10395.jpg)
+
